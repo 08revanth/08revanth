@@ -4,7 +4,7 @@
 - 💀 I’m currently learning CS(AIML) from National Institute of Engineering
 - 📫 How to reach me revanthmalagi@gmail.com
                       www.linkedin.com/in/revanth-malagi
-- ⚡ Fun fact: ... You wont be Interested!!!!
+- ⚡ Fun fact: ... You won't be Interested!!!!
 
 <!---
 08revanth/08revanth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
