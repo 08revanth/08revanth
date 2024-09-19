@@ -1,9 +1,9 @@
 - ☠️ Hi, I’m @08revanth
-- 🔭 I’m currently learning Web-Dev, DSA, ML
+- 🔭 I’m currently learning Web-Dev, DSA
 - 👀 I’m interested in ... ML, OpenSource 
 - 💀 I’m currently learning CS(AIML) from National Institute of Engineering
 - 📫 How to reach me revanthmalagi@gmail.com
-                      www.linkedin.com/in/revanth-malagi-27613a295
+                      www.linkedin.com/in/revanth-malagi
 - ⚡ Fun fact: ... You wont be Interested!!!!
 
 <!---
